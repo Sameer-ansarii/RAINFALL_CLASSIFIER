@@ -2,13 +2,11 @@
 
 This project is aimed at predicting whether it will rain in different locations of Australia using machine learning. The dataset used for this project was obtained from [Kaggle] and it contains various features such as location, date, temperature, humidity, pressure, and wind speed, among others.
 
-
-Content
+# Content
 This dataset contains about 10 years of daily weather observations from many locations across Australia.
-
 RainTomorrow is the target variable to predict. It means -- did it rain the next day, Yes or No? This column is Yes if the rain for that day was 1mm or more.
 
-Data Description
+# Data Description
 Location - Name of the city from Australia.
 MinTemp - The Minimum temperature during a particular day. (degree Celsius)
 MaxTemp - The maximum temperature during a particular day. (degree Celsius)
